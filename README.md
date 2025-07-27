@@ -13,4 +13,4 @@ Content type: Select application/json.
 Secret (Optional): If desired, provide a secret token for enhanced security. This secret must also be configured in your Jenkins GitHub plugin settings.
 Which events would you like to trigger this webhook? Select "Just the push event" or customize based on your needs.
 Ensure "Active" is checked.
-Click "Add webhook." 
+Click "Add webhook."
