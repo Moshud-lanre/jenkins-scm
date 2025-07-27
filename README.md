@@ -4,8 +4,6 @@ Jenkins CI demo
 
 This is to test auto build in jenkins when chenges are made to the repo.
 
-
-
 ## Steps to add webhook
 
 Navigate to your GitHub repository and go to "Settings" > "Webhooks." 
